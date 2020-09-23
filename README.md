@@ -1,6 +1,6 @@
 # hackathon
 
-A new flutter application for hackathon 2020
+Flutter application for summer hackathon 2020 with Jumpstart
 
 ## Getting Started
 
